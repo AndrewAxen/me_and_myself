@@ -31,6 +31,3 @@ Fenced Code Block	```
 }
 ```
 Footnote	Here's a sentence with a footnote. [^1]
-
-
-Superscript	X^2^
